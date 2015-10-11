@@ -295,6 +295,15 @@ a:focus {
     color: white;
 }
 
+.contact {
+    background: url(../img/chicago.jpg) no-repeat center center scroll;
+    background-size: cover;
+}
+
+.contact-bg {
+    background-color: rgba(98, 102, 104, 0.75);
+    background-size: cover ;
+}
 #map {
     width: 100%;
     height: 200px;
