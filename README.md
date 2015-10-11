@@ -1,1 +1,1 @@
-# [University of Waterloo Management Consulting Club]
+# University of Waterloo Management Consulting Club Website
