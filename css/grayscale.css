@@ -271,6 +271,7 @@ a:focus {
 
 .download {
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background-size: cover;
 }
 .download-section.intro-body {
     width: 100%;
