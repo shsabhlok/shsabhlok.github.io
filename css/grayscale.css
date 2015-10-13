@@ -349,6 +349,12 @@ a:focus {
     background-color: #00bf78;
 }
 
+/*.fa-stack:hover,
+.fa-stack:focus {
+   border: 1px solid #00bf78;
+   border-radius: 50%; 
+}*/
+
 ul.banner-social-buttons {
     margin-top: 0;
 }
