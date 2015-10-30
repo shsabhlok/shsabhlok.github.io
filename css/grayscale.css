@@ -135,10 +135,44 @@ a:focus {
 
     .navbar-custom.top-nav-collapse {
         padding: 0;
-        border-bottom: 1px solid rgba(255,255,255,.3);
         background: #000;
     }
 }
+
+  nav.navbar ul.nav li a {
+    color: white;
+    transition: 300ms;
+    -webkit-transition: 300ms;
+     }
+    nav.navbar ul.nav li a:hover {
+      color:#1b8e7c ;
+      background-color: #86898b; }
+  @media screen and (min-width: 768px) {
+    nav.navbar.affix {
+      position: fixed;
+      top: 0;
+      z-index: 100; } }
+
+   nav.navbar div.container-fluid.top-nav-collapse {
+        padding: 0;
+        border-bottom: 1px solid rgba(255,255,255,.3);
+        background: #000;
+    }
+
+  @media (min-width:769px) {
+    .dropdown:hover .dropdown-menu {
+      display: block;
+	  background: #86898b;
+	  
+      }
+    }
+
+    ul.nav > li:hover {
+	
+	background: #86898b;
+ 
+  }
+
 
 .intro {
     display: table;
