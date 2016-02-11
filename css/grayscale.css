@@ -379,8 +379,8 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
     background-color: transparent;
 }
 
@@ -394,17 +394,17 @@ a:focus {
 
 
 .btn-apply {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
     background-color: transparent;
 }
 
 .btn-apply:hover,
 .btn-apply:focus {
-    border: 1px solid #00bf78;
+    border: 1px solid #595959;
     outline: 0;
     color: white;
-    background-color: #00bf78;
+    background-color: #1b8e7c;
 }
 
 /*.fa-stack:hover,

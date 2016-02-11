@@ -115,8 +115,8 @@
         <div class="row" style="padding-top: 70px;">
             <h2 style="padding-bottom: 20px";><u>About UWMCC</u></h2>
             <div style="padding-top:5px;"class="">
-                <p align="center">Management Consulting is the industry and practice of helping organizations improve their performance, primarily through the analysis of existing business problems and development of plans. </p>
-                
+                <p align="center">Management Consulting is the industry and practice of helping organizations improve their performance, primarily through the analysis of existing business problems and development of plans.</p>
+
                 <p align="center">The University of Waterloo Management Consulting Club’s (UWMCC) primary focus is to make the University of Waterloo an active recruiting ground for Management Consulting firms. We believe that Waterloo students possess the talent and drive to succeed in the consulting industry; however, most students are either unaware of or lack the required knowledge to pursue these opportunities. We welcome you to grow alongside with the club.</p>
            
                 <p align="center">The UW Management Consulting Club seeks to attract students and help them acquire the basic skills needed to succeed in pursuing opportunities in the consulting industry. This club holds events that not only facilitate the networking process between UW students and recruiters at the targeted consulting firms, but also showcase the talent and motivation of UW students in front of the consulting firms.</p>
@@ -160,7 +160,7 @@
                             </div>
                             <div class="team-info">
                                 <h3 style="font-size: 18px; text-align: center;">Megala Dharampalan</h3>
-                                <p align="center" style="font-size: 12px">Co-president</p>
+                                <p align="center" style="font-size: 12px">Co-President</p>
 
                             </div>
                             <ul class="social-icons">
